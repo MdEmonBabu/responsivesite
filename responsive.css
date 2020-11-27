@@ -1,0 +1,121 @@
+@media (max-width: 992px){
+    .slider-caption .btn {
+        margin-top: 20px;
+    }
+    .slider-caption h4 {
+        margin-bottom: 5px;
+        font-size: 20px;
+    }
+    .about-section-img-e {
+        margin-top: 180px;
+    }
+    .pricing-items {
+        padding: 20px 18px;
+    }
+    .pricing-items ul li {
+        margin-bottom: 20px;
+        font-size: 15px;
+        margin-top: -12px;
+    }
+  .text-muted.mb-5 {
+        font-size: 16px;
+    }
+    .pricing-items ul li span {
+        font-size: 16px;
+        margin-right: -10px;
+    }
+    .form-control.mb-5 {
+        padding: 15px 0px;
+        text-align: center;
+        font-size: 30px;
+    }
+    .btn.btn-primary-outline.btn-lg.btn-block {
+        margin: 0px -14px;
+    }
+    .btn.btn-info.btn-lg.btn-block.btn2 {
+        margin-left: -18px;
+    }
+    .col.my-5 img {
+        max-width: 70%;
+    }
+}
+
+@media (max-width: 768px){
+    .slider-caption .btn {
+        margin-top: 20px;
+    }
+    .slider-caption h4 {
+        margin-bottom: 5px;
+        font-size: 20px;
+    }
+    .about-section-img-e {
+        margin-top: 180px;
+    }
+    .pricing-items {
+        padding: 20px 18px;
+        margin-bottom: 50px;
+    }
+    .pricing-items ul li {
+        margin-bottom: 20px;
+        font-size: 15px;
+        margin-top: -12px;
+    }
+  .text-muted.mb-5 {
+        font-size: 16px;
+    }
+    .pricing-items ul li span {
+        font-size: 16px;
+        margin-right: -10px;
+    }
+    .form-control.mb-5 {
+        padding: 15px 0px;
+        text-align: center;
+        font-size: 30px;
+    }
+    .btn.btn-primary-outline.btn-lg.btn-block {
+        margin: 0px -14px;
+    }
+    .btn.btn-info.btn-lg.btn-block.btn2 {
+        margin-left: -18px;
+    }
+    .col.my-5 img {
+        max-width: 70%;
+    }
+    .form-control.form-control-lg {
+        margin-bottom: 20px;
+    }
+    .sectiondetails {
+        text-align: center;
+    }
+    .sectiondetails .text-muted {
+        font-size: 20px;
+    }
+    .sectiondetails .h2 {
+        font-size: 35px;
+    }
+    .form-control.form-control-lg {
+        margin-bottom: -6px;
+    }
+    .slider-caption h2 {
+        font-size: 28px;
+    }
+    .slider-caption h4 {
+        font-size: 15px;
+    }
+    .form-control.form-control-lg {
+        font-size: 18px;
+    }
+    .about-section-text h1 {
+        font-size: 17px;
+    }
+    .about-section-text  .lead {
+        font-size: 16px;
+    }
+    .about-section-img-e {
+        margin-top: -10px;
+    }
+    .form-control.mb-5 {
+        padding: 0px 0px;
+        margin-top: 20px;
+    }
+}
